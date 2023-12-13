@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jayant</h1>
+<h1 align="center">Hi 👋, I'm Jayant Choudhary</h1>
 <h3 align="center">Enthusiastic NodeJs Back-End Developer</h3>
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **AWS**
 
@@ -24,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantchoudhary25&show_icons=true&locale=en&layout=compact" alt="jayantchoudhary25" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantchoudhary25&" alt="jayantchoudhary25" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantchoudhary25&show_icons=true&locale=en" alt="jayantchoudhary25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantchoudhary25&" alt="jayantchoudhary25" /></p>
+
